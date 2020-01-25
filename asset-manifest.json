@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/eriks-mapp-ts/static/css/main.76efb3cb.chunk.css",
-    "main.js": "/eriks-mapp-ts/static/js/main.23d5bd18.chunk.js",
-    "main.js.map": "/eriks-mapp-ts/static/js/main.23d5bd18.chunk.js.map",
+    "main.css": "/eriks-mapp-ts/static/css/main.37901a8a.chunk.css",
+    "main.js": "/eriks-mapp-ts/static/js/main.6417d1b1.chunk.js",
+    "main.js.map": "/eriks-mapp-ts/static/js/main.6417d1b1.chunk.js.map",
     "runtime-main.js": "/eriks-mapp-ts/static/js/runtime-main.f9f124e2.js",
     "runtime-main.js.map": "/eriks-mapp-ts/static/js/runtime-main.f9f124e2.js.map",
-    "static/js/2.9cb7fac8.chunk.js": "/eriks-mapp-ts/static/js/2.9cb7fac8.chunk.js",
-    "static/js/2.9cb7fac8.chunk.js.map": "/eriks-mapp-ts/static/js/2.9cb7fac8.chunk.js.map",
+    "static/js/2.2268b8db.chunk.js": "/eriks-mapp-ts/static/js/2.2268b8db.chunk.js",
+    "static/js/2.2268b8db.chunk.js.map": "/eriks-mapp-ts/static/js/2.2268b8db.chunk.js.map",
     "index.html": "/eriks-mapp-ts/index.html",
-    "precache-manifest.ec29aff887fd2817de18f09c574e1620.js": "/eriks-mapp-ts/precache-manifest.ec29aff887fd2817de18f09c574e1620.js",
+    "precache-manifest.54ffa36da838e6cebed749dd083f1e99.js": "/eriks-mapp-ts/precache-manifest.54ffa36da838e6cebed749dd083f1e99.js",
     "service-worker.js": "/eriks-mapp-ts/service-worker.js",
-    "static/css/main.76efb3cb.chunk.css.map": "/eriks-mapp-ts/static/css/main.76efb3cb.chunk.css.map",
-    "static/js/2.9cb7fac8.chunk.js.LICENSE": "/eriks-mapp-ts/static/js/2.9cb7fac8.chunk.js.LICENSE",
-    "static/media/h4s-feed.jpg": "/eriks-mapp-ts/static/media/h4s-feed.09f0de26.jpg"
+    "static/css/main.37901a8a.chunk.css.map": "/eriks-mapp-ts/static/css/main.37901a8a.chunk.css.map",
+    "static/js/2.2268b8db.chunk.js.LICENSE": "/eriks-mapp-ts/static/js/2.2268b8db.chunk.js.LICENSE",
+    "static/media/h4s-feed.jpg": "/eriks-mapp-ts/static/media/h4s-feed.09f0de26.jpg",
+    "static/media/ibm-feed.svg": "/eriks-mapp-ts/static/media/ibm-feed.331f29bd.svg",
+    "static/media/jip-feed.jpg": "/eriks-mapp-ts/static/media/jip-feed.bd78940e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f9f124e2.js",
-    "static/js/2.9cb7fac8.chunk.js",
-    "static/css/main.76efb3cb.chunk.css",
-    "static/js/main.23d5bd18.chunk.js"
+    "static/js/2.2268b8db.chunk.js",
+    "static/css/main.37901a8a.chunk.css",
+    "static/js/main.6417d1b1.chunk.js"
   ]
 }
