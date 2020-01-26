@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "/eriks-mapp-ts/static/css/main.37901a8a.chunk.css",
-    "main.js": "/eriks-mapp-ts/static/js/main.6417d1b1.chunk.js",
-    "main.js.map": "/eriks-mapp-ts/static/js/main.6417d1b1.chunk.js.map",
+    "main.css": "/eriks-mapp-ts/static/css/main.1679a8a9.chunk.css",
+    "main.js": "/eriks-mapp-ts/static/js/main.36ca5591.chunk.js",
+    "main.js.map": "/eriks-mapp-ts/static/js/main.36ca5591.chunk.js.map",
     "runtime-main.js": "/eriks-mapp-ts/static/js/runtime-main.f9f124e2.js",
     "runtime-main.js.map": "/eriks-mapp-ts/static/js/runtime-main.f9f124e2.js.map",
-    "static/js/2.2268b8db.chunk.js": "/eriks-mapp-ts/static/js/2.2268b8db.chunk.js",
-    "static/js/2.2268b8db.chunk.js.map": "/eriks-mapp-ts/static/js/2.2268b8db.chunk.js.map",
+    "static/js/2.9021a167.chunk.js": "/eriks-mapp-ts/static/js/2.9021a167.chunk.js",
+    "static/js/2.9021a167.chunk.js.map": "/eriks-mapp-ts/static/js/2.9021a167.chunk.js.map",
     "index.html": "/eriks-mapp-ts/index.html",
-    "precache-manifest.54ffa36da838e6cebed749dd083f1e99.js": "/eriks-mapp-ts/precache-manifest.54ffa36da838e6cebed749dd083f1e99.js",
+    "precache-manifest.e2699200f5f713577aacf6a3c137f4b5.js": "/eriks-mapp-ts/precache-manifest.e2699200f5f713577aacf6a3c137f4b5.js",
     "service-worker.js": "/eriks-mapp-ts/service-worker.js",
-    "static/css/main.37901a8a.chunk.css.map": "/eriks-mapp-ts/static/css/main.37901a8a.chunk.css.map",
-    "static/js/2.2268b8db.chunk.js.LICENSE": "/eriks-mapp-ts/static/js/2.2268b8db.chunk.js.LICENSE",
+    "static/css/main.1679a8a9.chunk.css.map": "/eriks-mapp-ts/static/css/main.1679a8a9.chunk.css.map",
+    "static/js/2.9021a167.chunk.js.LICENSE": "/eriks-mapp-ts/static/js/2.9021a167.chunk.js.LICENSE",
     "static/media/h4s-feed.jpg": "/eriks-mapp-ts/static/media/h4s-feed.09f0de26.jpg",
     "static/media/ibm-feed.svg": "/eriks-mapp-ts/static/media/ibm-feed.331f29bd.svg",
-    "static/media/jip-feed.jpg": "/eriks-mapp-ts/static/media/jip-feed.bd78940e.jpg"
+    "static/media/jip-feed.jpg": "/eriks-mapp-ts/static/media/jip-feed.aa193846.jpg",
+    "static/media/metrolive-feed.jpg": "/eriks-mapp-ts/static/media/metrolive-feed.565529cb.jpg",
+    "static/media/metrolive-img1.jpg": "/eriks-mapp-ts/static/media/metrolive-img1.5a41b91b.jpg",
+    "static/media/metrolive-img2.jpg": "/eriks-mapp-ts/static/media/metrolive-img2.756c54cb.jpg",
+    "static/media/metrolive-img3.jpg": "/eriks-mapp-ts/static/media/metrolive-img3.d6f2cd82.jpg",
+    "static/media/vasaloppet-feed.jpg": "/eriks-mapp-ts/static/media/vasaloppet-feed.afe3d4a2.jpg",
+    "static/media/vasaloppet-thumbnail-project.jpg": "/eriks-mapp-ts/static/media/vasaloppet-thumbnail-project.70a2dcaf.jpg",
+    "static/media/vex-feed.jpg": "/eriks-mapp-ts/static/media/vex-feed.5460f73e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f9f124e2.js",
-    "static/js/2.2268b8db.chunk.js",
-    "static/css/main.37901a8a.chunk.css",
-    "static/js/main.6417d1b1.chunk.js"
+    "static/js/2.9021a167.chunk.js",
+    "static/css/main.1679a8a9.chunk.css",
+    "static/js/main.36ca5591.chunk.js"
   ]
 }

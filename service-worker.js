@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/eriks-mapp-ts/precache-manifest.54ffa36da838e6cebed749dd083f1e99.js"
+  "/eriks-mapp-ts/precache-manifest.e2699200f5f713577aacf6a3c137f4b5.js"
 );
 
 self.addEventListener('message', (event) => {
