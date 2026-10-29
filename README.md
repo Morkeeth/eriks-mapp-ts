@@ -1,3 +1,10 @@
+# eriks-mapp-ts
+
+**An early experiment from January 2020: a React and TypeScript portfolio site for Erik Nilsson, bootstrapped with Create React App.**
+
+- What it does: renders a landing page, an about section and a case grid driven by `src/cases.json`; most of the copy is still placeholder text.
+- Try it: `npm install && npm start`, then open http://localhost:3000.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
