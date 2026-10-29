@@ -8,8 +8,6 @@ It retains placeholder copy and Create React App setup; treat it as an early exp
 
 ## The problem and approach
 
-# eriks-mapp-ts
-
 - What it does: renders a landing page, an about section and a case grid driven by `src/cases.json`; most of the copy is still placeholder text.
 
 ## Review and pick up the work
