@@ -1,3 +1,21 @@
+# eriks-mapp-ts
+
+## TLDR
+
+A React and TypeScript portfolio experiment for Erik Nilsson.<br>
+The landing page, about section and case grid provide a starting point for a personal site.<br>
+It retains placeholder copy and Create React App setup; treat it as an early experiment.
+
+## The problem and approach
+
+- What it does: renders a landing page, an about section and a case grid driven by `src/cases.json`; most of the copy is still placeholder text.
+
+## Review and pick up the work
+
+[Agent guide](AGENTS.md)
+
+Start with the linked source, setup and evidence. Recorded demos and sample data keep their original scope; use the repository instructions for a fresh run.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -42,3 +60,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## License and data boundaries
+
+This checkout has no root license file establishing general reuse rights. Data, provider responses, media, fonts and other third-party assets may have separate terms. Repository access alone does not grant rights to those materials. 
